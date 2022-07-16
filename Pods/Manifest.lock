@@ -1,5 +1,4 @@
 PODS:
-  - GMStepper (2.2)
   - RxCocoa (6.5.0):
     - RxRelay (= 6.5.0)
     - RxSwift (= 6.5.0)
@@ -8,23 +7,20 @@ PODS:
   - RxSwift (6.5.0)
 
 DEPENDENCIES:
-  - GMStepper
   - RxCocoa
   - RxSwift
 
 SPEC REPOS:
   trunk:
-    - GMStepper
     - RxCocoa
     - RxRelay
     - RxSwift
 
 SPEC CHECKSUMS:
-  GMStepper: 89fb106944dfcc3aa3add7164e3ebd463ea2104b
   RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
   RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
 
-PODFILE CHECKSUM: 7dad168811e7f48ecea661193df6575ad76ccb34
+PODFILE CHECKSUM: ddd4e951309c669e282bde79f6be6e66e7cde88a
 
 COCOAPODS: 1.11.3

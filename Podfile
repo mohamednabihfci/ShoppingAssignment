@@ -8,5 +8,4 @@ target 'ShoppingAssignment' do
   # Pods for ShoppingAssignment
     pod 'RxSwift'
     pod 'RxCocoa'
-    pod 'GMStepper'
 end
