@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import GMStepper
 import RxSwift
 import RxCocoa
 
