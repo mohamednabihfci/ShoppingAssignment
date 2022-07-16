@@ -122,14 +122,6 @@
 			path = Assets;
 			sourceTree = "<group>";
 		};
-		A63AE8782883280400347903 /* Settings */ = {
-			isa = PBXGroup;
-			children = (
-				A6756020287D7546003C7F64 /* Info.plist */,
-			);
-			path = Settings;
-			sourceTree = "<group>";
-		};
 		A65DC9CC287DB60D00E9108C /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
@@ -316,7 +308,7 @@
 				A6756026287D7557003C7F64 /* Models */,
 				A63AE876288327E800347903 /* Resources */,
 				A675601D287D7546003C7F64 /* LaunchScreen.storyboard */,
-				A63AE8782883280400347903 /* Settings */,
+				A6756020287D7546003C7F64 /* Info.plist */,
 			);
 			path = ShoppingAssignment;
 			sourceTree = "<group>";
